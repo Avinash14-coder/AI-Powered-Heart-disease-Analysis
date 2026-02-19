@@ -6,3 +6,5 @@ shap
 matplotlib
 google-genai
 python-dotenv
+fpdf
+scikit-learn
