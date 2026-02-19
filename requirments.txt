@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+shap
+matplotlib
+google-genai
+python-dotenv
